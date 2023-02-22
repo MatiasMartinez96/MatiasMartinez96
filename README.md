@@ -1,6 +1,6 @@
 # <h1 align="left">**`MATÍAS MARTINEZ`**
   
-<p><img align="right" alt="GIF" src="https://lh3.googleusercontent.com/oJdo7IgUm8YCremz01jvSZCjwy1kcecGP-LnnEU80YCWlNDa44mZyGSe3DJcGlpCc8-8fVHQOTHFewJFu2MzvLAvrkIaCqP46yUseQ=h600" width="550" height="350" /></p>
+<p><img align="right" alt="GIF" src="https://www.worldbank.org/content/dam/photos/780x439/2017/oct-3/GFDR-2017-cover-animated.gif" width="500" height="350" /></p>
 
 <h1 align="left">Data Engineer
   
