@@ -1,7 +1,5 @@
 # <h1 align="left">**`MATÍAS MARTINEZ`**
-
 <p><img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFjYTE2YTZmNzVjNjBhOTVmNmQ4ZGMxMGU5YmY5OTYyY2M2OTlmYyZjdD1n/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="350" /></p>
-
 # <h1 align="left">**Data Engineer**
   
 <h3 align="left">Connect with me:</h3>
