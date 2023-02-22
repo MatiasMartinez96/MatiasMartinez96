@@ -1,6 +1,6 @@
 # <h1 align="left">**`MATÍAS MARTINEZ`**
   
-<p><img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFjYTE2YTZmNzVjNjBhOTVmNmQ4ZGMxMGU5YmY5OTYyY2M2OTlmYyZjdD1n/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="350" /></p>
+<p><img align="right" alt="GIF" src="https://i0.wp.com/echaintechnology.com/wp-content/uploads/2018/12/echain_connected_world.gif?fit=480%2C270&ssl=1" width="500" height="350" /></p>
 
 <h1 align="left">Data Engineer
   
