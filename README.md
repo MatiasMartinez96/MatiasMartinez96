@@ -1,6 +1,8 @@
 <h1 align="center">Matías Martinez</h1>
 
-<picture> <img alt="Data" src="https://giphy.com/embed/i4jKn7itdV2Tvjzj6Y" width="100%"> </picture>
+<p align="center">
+<img src="https://giphy.com/embed/i4jKn7itdV2Tvjzj6Y)"  height=300>
+</p>
 
 <h3 align="center">Data Engineer - Técnico en Informática</h3>
 
