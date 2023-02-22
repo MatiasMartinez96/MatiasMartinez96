@@ -6,7 +6,7 @@
   
 ### <h3 align="left">*Connect with me:*</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/matias-martinez96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-martinez96/" height="30" width="40" /></a>  <a href="mailto:matiasm.9618@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" height="24" width="34" /></a>
+<a href="https://www.linkedin.com/in/matias-martinez96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-martinez96/" height="30" width="40" /></a>  <a href="mailto:matiasm.9618@gmail.com" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png" alt="gmail" height="24" width="34" /></a>
 </p>
 
 
