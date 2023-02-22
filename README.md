@@ -4,7 +4,7 @@
 
   
 
-# <h3 align="left">*Data Engineer - Técnico en Informática*</h3>
+# <h3 align="left">**Data Engineer - Técnico en Informática**</h3>
 
   
 <h3 align="left">Connect with me:</h3>
