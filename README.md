@@ -1,6 +1,6 @@
 # <h1 align="left">**`MATÍAS MARTINEZ`**
 
-<p><img align="right" alt="GIF" src="![Planet](https://user-images.githubusercontent.com/110235305/220772877-014ee14b-7e5c-470b-88d7-fe3a1d57d2d0.gif)" height="350" /></p>
+<p><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/110235305/220772877-014ee14b-7e5c-470b-88d7-fe3a1d57d2d0.gif" height="350" /></p>
 
 
 <h1 align="left">Data Engineer
