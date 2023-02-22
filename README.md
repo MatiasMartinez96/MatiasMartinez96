@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, I'm Matías Martinez</h1>
-<h3 align="center">A passionate Data Engineer from Argentina</h3>
+<h1 align="center">Matías Martinez</h1>
+<h3 align="center">Data Engineer - Técnico en Informática</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
