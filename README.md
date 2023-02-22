@@ -3,7 +3,7 @@
 <p><img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFjYTE2YTZmNzVjNjBhOTVmNmQ4ZGMxMGU5YmY5OTYyY2M2OTlmYyZjdD1n/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="350" /></p>
 
 
-<h3 align="left">***Data Engineer - Técnico en Informática***</h3>
+<h3 align="left">*** Data Engineer - Técnico en Informática ***</h3>
 
   
 <h3 align="left">Connect with me:</h3>
