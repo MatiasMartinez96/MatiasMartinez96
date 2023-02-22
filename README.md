@@ -1,6 +1,6 @@
 <h1 align="center">Matías Martinez</h1>
 
-<h1 align="center">Hi <img src="https://giphy.com/embed/i4jKn7itdV2Tvjzj6Y)" height="55px" width="55px">, I'm Shahriyar Al Mustakim Mitul</h1>
+<p><img align="right" alt="GIF" src="https://giphy.com/embed/i4jKn7itdV2Tvjzj6Y)" width="500" height="350" /></p>-->
 
 <h3 align="center">Data Engineer - Técnico en Informática</h3>
 
