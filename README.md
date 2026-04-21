@@ -4,7 +4,7 @@
 
 <h2 align="left">Data Engineer</h2>
 
-<br><br><br><br><br>
+<br><br>
 
 <h3 align="left"><em>Connect with me:</em></h3>
 
