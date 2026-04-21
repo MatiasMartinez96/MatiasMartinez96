@@ -4,8 +4,6 @@
 
 <h2 align="left">Data Engineer</h2>
 
-<br><br>
-
 <h3 align="left"><em>Connect with me:</em></h3>
 
 <a href="https://www.linkedin.com/in/matias-martinez96/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
