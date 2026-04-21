@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/110235305/220776976-0c55511c-912a-4c6e-8a40-36d143fad9f6.gif" height="350" />
 
-<p align="left"><strong>Data Engineer</strong></p>
+<p align="left"><strong><code>Data Engineer</code></strong></p>
 
 <h3 align="left"><em>Connect with me:</em></h3>
 
